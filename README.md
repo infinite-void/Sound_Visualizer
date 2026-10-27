@@ -104,7 +104,7 @@ Pattern buttons can run solo or stacked. Pick one on its own, or turn on more th
 For example, **Skyscrapers + Rorschach*** runs Skyscrapers as the base pattern with the Rorschach mirror stacked on top of it.
 
 
-The thumbnail designs — Ember Blot and Breakup — work differently. Picking one sets the board's look: it swaps in its own pin design rather than stacking on Skyscraper bars. The Rorschach mirror, by contrast, stacks on top of a base pattern such as Skyscrapers.
+Ember Blot and Breakup work the same way. Picking one sets the board's look: it swaps in its own pin design rather than stacking on Skyscraper bars, replacing the other thumbnail pattern, and clicking it again clears it. The Rorschach mirror, by contrast, stacks on top of a base pattern such as Skyscrapers.
 
 ## Color sets
 
