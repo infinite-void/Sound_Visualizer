@@ -123,8 +123,6 @@ Color sets and patterns are fully decoupled:
 
 ## Controls
 
-![Controls](readme-controls.jpg)
-
 There are three sliders. 
 
 - **Gain — sensitivity.** How hard the sound pushes the pins. Turn it up for quiet sources, down for loud ones that pin everything to the top.
