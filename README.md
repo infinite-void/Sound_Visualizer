@@ -1,5 +1,7 @@
 # X3-B Sound Visualizer
 
+<img src="readme-board-pink.jpg" width="190"> <img src="readme-board-blue-pink-green.jpg" width="190"> <img src="readme-board-red-white.jpg" width="190"> <img src="readme-board-skyscrapers-multicolor.jpg" width="190"> <img src="readme-board-skyscrapers-red-gold.jpg" width="190">
+
 
 
 
