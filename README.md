@@ -5,18 +5,6 @@
 
 
 
-## Photos
-
-![Board in pink](readme-board-pink.jpg)
-
-![Board in blue, pink, and green](readme-board-blue-pink-green.jpg)
-
-![Board in red and white](readme-board-red-white.jpg)
-
-![Skyscrapers board in multiple colors](readme-board-skyscrapers-multicolor.jpg)
-
-![Skyscrapers board in red and gold](readme-board-skyscrapers-red-gold.jpg)
-
 ## What it is
 
 A sound visualizer that turns audio into a heightmap — a terrain map made of sound. A board of 56 × 42 pins rises and falls with the sound, driven by frequency analysis: each band drives part of the grid through a Fast Fourier Transform.
