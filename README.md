@@ -5,6 +5,8 @@
 
 
 
+**Try it live: [https://infinite-void.github.io/Sound_Visualizer/](https://infinite-void.github.io/Sound_Visualizer/)**
+
 ## What it is
 
 A sound visualizer that turns audio into a heightmap — a terrain map made of sound. A board of 56 × 42 pins rises and falls with the sound, driven by frequency analysis: each band drives part of the grid through a Fast Fourier Transform.
